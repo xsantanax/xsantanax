@@ -1,6 +1,6 @@
 ## Rafael Rodrigues Santana
 
-Check out more at rafaelsantana.pro
+Check out more at http://rafaelsantana.pro
 
 <!--
 **xsantanax/xsantanax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
